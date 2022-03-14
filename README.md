@@ -9,3 +9,11 @@ repository for the Zmumu validation tool. Starting from https://github.com/cms-t
 `cmsenv`
 
 `git-cms-init`
+
+`git-cms-addpkg Alignment/OfflineValidation`
+
+`git remote add PatricksFork https://github.com/connorpa/cmssw.git`
+
+`git checkout -b python_approach`
+
+`git pull PatricksFork python_approach`
