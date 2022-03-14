@@ -10,8 +10,8 @@ cp -v -p Zmumu_cfg.py ${cmsswPath}/Alignment/OfflineValidation/python/TkAlAllInO
 cp -v -p validateAlignments.py ${cmsswPath}/Alignment/OfflineValidation/scripts/
 cp -v -p BuildFile.xml ${cmsswPath}/Alignment/OfflineValidation/bin/
 cp -v -p testZmumu.yaml ${cmsswPath}/Alignment/OfflineValidation/test/
-cp -v -p GCP.cc ${cmsswPath}/Alignment/OfflineValidation/bin/
-cp -v -p GeometryComparisonPlotter.h ${cmsswPath}/Alignment/OfflineValidation/interface/
+#cp -v -p GCP.cc ${cmsswPath}/Alignment/OfflineValidation/bin/
+#cp -v -p GeometryComparisonPlotter.h ${cmsswPath}/Alignment/OfflineValidation/interface/
 
 echo "Done"
 
