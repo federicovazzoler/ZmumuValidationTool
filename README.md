@@ -10,7 +10,7 @@ repository for the Zmumu validation tool. Starting from https://github.com/cms-t
 
 `git-cms-init`
 
-`git-cms-addpkg Alignment/OfflineValidation` FIXME: needed?
+`git-cms-addpkg Alignment/OfflineValidation`
 
 `git remote add PatricksFork https://github.com/connorpa/cmssw.git` FIXME: needed?
 
