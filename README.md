@@ -17,3 +17,5 @@ repository for the Zmumu validation tool. Starting from https://github.com/cms-t
 `git checkout -b python_approach`
 
 `git pull PatricksFork python_approach`
+
+`git clone -b main git@github.com:federicovazzoler/ZmumuValidationTool.git`
