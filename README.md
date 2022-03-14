@@ -10,12 +10,12 @@ repository for the Zmumu validation tool. Starting from https://github.com/cms-t
 
 `git-cms-init`
 
-`git-cms-addpkg Alignment/OfflineValidation`
+`git-cms-addpkg Alignment/OfflineValidation` FIXME: needed?
 
-`git remote add PatricksFork https://github.com/connorpa/cmssw.git`
+`git remote add PatricksFork https://github.com/connorpa/cmssw.git` FIXME: needed?
 
-`git checkout -b python_approach`
+`git checkout -b python_approach` FIXME: needed?
 
-`git pull PatricksFork python_approach`
+`git pull PatricksFork python_approach` FIXME: needed?
 
 `git clone -b main git@github.com:federicovazzoler/ZmumuValidationTool.git`
